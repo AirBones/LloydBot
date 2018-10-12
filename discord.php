@@ -6,7 +6,7 @@ use Discord\Parts\Channel\Channel;
 use Discord\Parts\User\Game;
 use Discord\Parts\Embed;
 use Discord\Factory\Factory;
-$token='NTAwMzA0OTk0MzQ4NTY0NTI3.DqI5fw.jQCna6MqB7qfkfvA5ESqKJXxnhk';
+$token='NTAwMzA0OTk0MzQ4NTY0NTI3.DqJAxA.VSorQuPbhnfdJn5tz5eIrra6i_0';
 $bot_id='500304994348564527';
 
 $discord = new Discord([
